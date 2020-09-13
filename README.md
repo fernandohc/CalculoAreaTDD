@@ -1,5 +1,7 @@
 # CalculoAreaTDD
 
+![](https://img.shields.io/appveyor/tests/thiagoloureiro/dapper-crud-extension.svg)
+
 A Aplicação possui dois métodos, uma para calcular a metragem quadrada de uma área qualquer e outro para calcular a metragem cúbica.
 A implementação foi feita seguindo as regras de TDD:
   
