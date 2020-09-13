@@ -10,4 +10,6 @@ A implementação foi feita seguindo as regras de TDD:
   - Passo 2: Fazer o teste passar;
   - Passo 3: Refatorar código.
   
- Também foram realizadas alterações utilizando branchs distintas: **master e novo_ramo** 
+ Também foram realizadas alterações utilizando branchs distintas: **master e novo_ramo**
+ 
+ Foram incluidos um processo de CI/CD que realizar a execução de testes e cobertura, além de verificar a qualidade do código.
