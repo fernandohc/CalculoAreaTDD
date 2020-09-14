@@ -1,5 +1,5 @@
 from unittest import TestCase
-from area import *
+from .area import *
 
 class TesteArea(TestCase):
 

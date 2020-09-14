@@ -13,3 +13,9 @@ A implementação foi feita seguindo as regras de TDD:
  Também foram realizadas alterações utilizando branchs distintas: **master e novo_ramo**
  
  Foram incluidos um processo de CI/CD que realizar a execução de testes e cobertura, além de verificar a qualidade do código.
+
+## Trabalho Entregue 
+
+### Parabéns 
+
+![Resultados dos testes](ok.png)
